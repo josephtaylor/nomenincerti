@@ -1,0 +1,7 @@
+*.iml
+.idea
+.metadata
+target/
+*.png
+!src/test/resources/*.png
+*.log
